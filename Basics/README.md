@@ -14,6 +14,8 @@ to learn more about whatever you want after studying it.
 6. [Using functions](using-functions.md)
 7. [Setting up an editor](editor-setup.md)
 8. [If, else and elif](if.md)
+9. [Handy stuff with strings](handy-stuff-strings.md)
+10. [Lists and tuples](lists-and-tuples.md)
 
 
 ***
