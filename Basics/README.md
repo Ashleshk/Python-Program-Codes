@@ -21,7 +21,11 @@ to learn more about whatever you want after studying it.
 13. [Dictionaries](dicts.md)
 14. [Defining functions](defining-functions.md)
 15. [Writing a larger program](larger-program.md)
+16. [What is true?](what-is-true.md)
+17. [Files](files.md)
 
+
+***
 
 If you have trouble with this tutorial please [tell me about
 it](../contact-me.md) and I'll make this tutorial better. If you
