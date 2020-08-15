@@ -6,6 +6,8 @@
 This section will get you started with using Python and you'll be able
 to learn more about whatever you want after studying it.
 
+1. [What is programming?](what-is-programming.md)
+2. [Installing Python](installing-python.md)
 
 
 ***
