@@ -19,6 +19,7 @@ to learn more about whatever you want after studying it.
 11. [Loops](loops.md)
 12. [Trey Hunner: zip and enumerate](trey-hunner-zip-and-enumerate.md)
 13. [Dictionaries](dicts.md)
+14. [Defining functions](defining-functions.md)
 
 
 ***
