@@ -17,6 +17,7 @@ to learn more about whatever you want after studying it.
 9. [Handy stuff with strings](handy-stuff-strings.md)
 10. [Lists and tuples](lists-and-tuples.md)
 11. [Loops](loops.md)
+12. [Trey Hunner: zip and enumerate](trey-hunner-zip-and-enumerate.md)
 
 
 ***
