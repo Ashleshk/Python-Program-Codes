@@ -13,3 +13,5 @@ techniques just because you know how to use them.** Prefer the simple
 techniques from the Basics part instead when possible. Simple is better
 than complex.
 
+1. [Handy data types](datatypes.md)
+
