@@ -17,3 +17,9 @@ than complex.
 2. [Advanced stuff with functions](functions.md)
 3. [Magic methods](magicmethods.md)
 4. [Iterables, iterators and generators](iters.md)
+
+***
+
+If you have trouble with this tutorial please [tell me about
+it](../contact-me.md) and I'll make this tutorial better. If you
+
