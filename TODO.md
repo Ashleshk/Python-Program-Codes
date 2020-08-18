@@ -9,3 +9,10 @@ This tutorial is not complete. It still needs:
     - `3.14` and `'3.14'`
     - `# 'hello'` and `'# hello'`
 - range somewhere
+- **More exercises and examples everywhere!**
+    - especially "fix this" exercises
+- classes part 1:
+
+        <deniska> Akuli: I would probably add an example of refactoring
+                  a bunch of functions working with shared global data
+                  into a class because it's a pretty typical usecase
