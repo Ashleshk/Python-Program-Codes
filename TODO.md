@@ -16,3 +16,10 @@ This tutorial is not complete. It still needs:
         <deniska> Akuli: I would probably add an example of refactoring
                   a bunch of functions working with shared global data
                   into a class because it's a pretty typical usecase
+
+- classes part 2
+    - non-public `_variables`
+    - "singular" inheritance, inheritance of built-in classes
+    - using super
+    - advise to avoid multiple inheritance
+- 
