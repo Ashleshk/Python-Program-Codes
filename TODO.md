@@ -22,4 +22,15 @@ This tutorial is not complete. It still needs:
     - "singular" inheritance, inheritance of built-in classes
     - using super
     - advise to avoid multiple inheritance
-- 
+- last chapter: "What should I do now?" links to other resources
+    - first of all: read zen and pep8
+        - explanation of the zen, especially the "one right way" myth
+    - GUI programming tutorials
+        - easygui
+        - tkinter in effbot (warn the readers about star imports)
+        - pyqt5 in zetcode (warn about mixedCase)
+        - gtk+ 3 in readthedocs
+    - a pygame tutorial
+    - David Beazley's metaprogramming and other talks
+    - "What the heck is this?" section for stuff i haven't talked about
+        - regexes
