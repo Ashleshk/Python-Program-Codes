@@ -34,3 +34,14 @@ This tutorial is not complete. It still needs:
     - David Beazley's metaprogramming and other talks
     - "What the heck is this?" section for stuff i haven't talked about
         - regexes
+
+- add a screenshot about geany's running settings to
+  basics/editor-setup.md
+
+***
+
+If you have trouble with this tutorial please [tell me about
+it](./contact-me.md) and I'll make this tutorial better. If you
+like this tutorial, please [give it a
+star](./README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
+
