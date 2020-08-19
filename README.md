@@ -36,3 +36,5 @@ to learn more about whatever you want after studying it.
 10. [Lists and tuples](basics/lists-and-tuples.md)
 11. [Loops](basics/loops.md)
 12. [Trey Hunner: zip and enumerate](basics/trey-hunner-zip-and-enumerate.md)
+13. [Dictionaries](basics/dicts.md)
+14. [Defining functions](basics/defining-functions.md)
