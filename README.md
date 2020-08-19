@@ -24,7 +24,7 @@ The tutorial consists of two sections:
 This section will get you started with using Python and you'll be able
 to learn more about whatever you want after studying it.
 
-1. [What is programming?](basics/what-is-programming.md)
+1. [What is programming?](./basics/what-is-programming.md)
 2. [Installing Python](basics/installing-python.md)
 3. [Getting started with Python](basics/getting-started.md)
 4. [ThinkPython: The way of the program](basics/the-way-of-the-program.md)
