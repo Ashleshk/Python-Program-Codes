@@ -39,12 +39,12 @@ to learn more about whatever you want after studying it.
 13. [Dictionaries](https://github.com/Ashleshk/Python-Program-Codes/blob/master/Basics/dicts.md)
 14. [Defining functions](https://github.com/Ashleshk/Python-Program-Codes/blob/master/Basics/defining-functions.md)
 15. [Writing a larger program](https://github.com/Ashleshk/Python-Program-Codes/blob/master/Basics/larger-program.md)
-16. [What is true?](basics/what-is-true.md)
-17. [Files](basics/files.md)
-18. [Modules](basics/modules.md)
-19. [Exceptions](basics/exceptions.md)
-20. [Classes](basics/classes.md)
-21. [Docstrings](basics/docstrings.md)
+16. [What is true?](https://github.com/Ashleshk/Python-Program-Codes/blob/master/Basics/what-is-true.md)
+17. [Files](https://github.com/Ashleshk/Python-Program-Codes/blob/master/Basics/files.md)
+18. [Modules](https://github.com/Ashleshk/Python-Program-Codes/blob/master/Basics/modules.md)
+19. [Exceptions](https://github.com/Ashleshk/Python-Program-Codes/blob/master/Basics/exceptions.md)
+20. [Classes](https://github.com/Ashleshk/Python-Program-Codes/blob/master/Basics/classes.md)
+21. [Docstrings](https://github.com/Ashleshk/Python-Program-Codes/blob/master/Basics/docstrings.md)
 
 
 ### Advanced
