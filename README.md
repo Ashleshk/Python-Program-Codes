@@ -30,3 +30,5 @@ to learn more about whatever you want after studying it.
 4. [ThinkPython: The way of the program](basics/the-way-of-the-program.md)
 5. [Variables, Booleans and None](basics/variables.md)
 6. [Using functions](basics/using-functions.md)
+7. [Setting up an editor](basics/editor-setup.md)
+8. [If, else and elif](basics/if.md)
