@@ -42,3 +42,5 @@ to learn more about whatever you want after studying it.
 16. [What is true?](basics/what-is-true.md)
 17. [Files](basics/files.md)
 18. [Modules](basics/modules.md)
+19. [Exceptions](basics/exceptions.md)
+20. [Classes](basics/classes.md)
