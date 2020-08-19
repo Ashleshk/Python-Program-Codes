@@ -34,3 +34,5 @@ to learn more about whatever you want after studying it.
 8. [If, else and elif](basics/if.md)
 9. [Handy stuff with strings](basics/handy-stuff-strings.md)
 10. [Lists and tuples](basics/lists-and-tuples.md)
+11. [Loops](basics/loops.md)
+12. [Trey Hunner: zip and enumerate](basics/trey-hunner-zip-and-enumerate.md)
