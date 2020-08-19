@@ -38,3 +38,5 @@ to learn more about whatever you want after studying it.
 12. [Trey Hunner: zip and enumerate](basics/trey-hunner-zip-and-enumerate.md)
 13. [Dictionaries](basics/dicts.md)
 14. [Defining functions](basics/defining-functions.md)
+15. [Writing a larger program](basics/larger-program.md)
+16. [What is true?](basics/what-is-true.md)
