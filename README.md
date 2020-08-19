@@ -32,3 +32,5 @@ to learn more about whatever you want after studying it.
 6. [Using functions](basics/using-functions.md)
 7. [Setting up an editor](basics/editor-setup.md)
 8. [If, else and elif](basics/if.md)
+9. [Handy stuff with strings](basics/handy-stuff-strings.md)
+10. [Lists and tuples](basics/lists-and-tuples.md)
