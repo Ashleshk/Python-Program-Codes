@@ -63,3 +63,7 @@ than complex.
 2. [Advanced stuff with functions](https://github.com/Ashleshk/Python-Program-Codes/blob/master/advanced/functions.md)
 3. [Magic methods](https://github.com/Ashleshk/Python-Program-Codes/blob/master/advanced/magicmethods.md)
 4. [Iterables, iterators and generators](https://github.com/Ashleshk/Python-Program-Codes/blob/master/advanced/iters.md)
+
+### Other things this tutorial comes with
+
+- **Important:** [getting help](getting-help.md)
