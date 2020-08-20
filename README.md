@@ -70,3 +70,4 @@ than complex.
 - [Contact me](contact-me.md)
 - Answers for excercises in [basics](basics/answers.md) and
     [advanced](advanced/answers.md) sections
+- [The TODO list](TODO.md)
