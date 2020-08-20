@@ -60,3 +60,4 @@ techniques from the Basics part instead when possible. Simple is better
 than complex.
 
 1. [Handy data types](advanced/datatypes.md)
+2. [Advanced stuff with functions](advanced/functions.md)
