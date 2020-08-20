@@ -69,5 +69,5 @@ than complex.
 - **Important:** [getting help](https://github.com/Ashleshk/Python-Program-Codes/blob/master/getting-help.md)
 - [Contact me](https://github.com/Ashleshk/Python-Program-Codes/blob/master/contact-me.md)
 - Answers for excercises in [basics](https://github.com/Ashleshk/Python-Program-Codes/tree/master/Basics) and
-    [advanced](advanced/answers.md) sections
+    [advanced](https://github.com/Ashleshk/Python-Program-Codes/tree/master/advanced) sections
 - [The TODO list](TODO.md)
