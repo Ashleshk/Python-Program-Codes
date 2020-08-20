@@ -70,4 +70,4 @@ than complex.
 - [Contact me](https://github.com/Ashleshk/Python-Program-Codes/blob/master/contact-me.md)
 - Answers for excercises in [basics](https://github.com/Ashleshk/Python-Program-Codes/tree/master/Basics) and
     [advanced](https://github.com/Ashleshk/Python-Program-Codes/tree/master/advanced) sections
-- [The TODO list](TODO.md)
+- [The TODO list](https://github.com/Ashleshk/Python-Program-Codes/blob/master/TODO.md)
