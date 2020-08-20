@@ -67,7 +67,7 @@ than complex.
 ### Other things this tutorial comes with
 
 - **Important:** [getting help](https://github.com/Ashleshk/Python-Program-Codes/blob/master/getting-help.md)
-- [Contact me](contact-me.md)
+- [Contact me](https://github.com/Ashleshk/Python-Program-Codes/blob/master/contact-me.md)
 - Answers for excercises in [basics](basics/answers.md) and
     [advanced](advanced/answers.md) sections
 - [The TODO list](TODO.md)
