@@ -66,4 +66,4 @@ than complex.
 
 ### Other things this tutorial comes with
 
-- **Important:** [getting help](getting-help.md)
+- **Important:** [getting help](https://github.com/Ashleshk/Python-Program-Codes/blob/master/getting-help.md)
