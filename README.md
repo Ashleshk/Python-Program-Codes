@@ -59,7 +59,7 @@ techniques just because you know how to use them.** Prefer the simple
 techniques from the Basics part instead when possible. Simple is better
 than complex.
 
-1. [Handy data types](advanced/datatypes.md)
+1. [Handy data types](https://github.com/Ashleshk/Python-Program-Codes/blob/master/advanced/datatypes.md)
 2. [Advanced stuff with functions](advanced/functions.md)
 3. [Magic methods](advanced/magicmethods.md)
 4. [Iterables, iterators and generators](advanced/iters.md)
