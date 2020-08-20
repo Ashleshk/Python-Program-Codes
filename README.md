@@ -61,3 +61,4 @@ than complex.
 
 1. [Handy data types](advanced/datatypes.md)
 2. [Advanced stuff with functions](advanced/functions.md)
+3. [Magic methods](advanced/magicmethods.md)
