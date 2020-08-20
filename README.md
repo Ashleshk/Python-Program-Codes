@@ -71,3 +71,10 @@ than complex.
 - Answers for excercises in [basics](https://github.com/Ashleshk/Python-Program-Codes/tree/master/Basics) and
     [advanced](https://github.com/Ashleshk/Python-Program-Codes/tree/master/advanced) sections
 - [The TODO list](https://github.com/Ashleshk/Python-Program-Codes/blob/master/TODO.md)
+
+## Frequently asked questions
+
+### How can I thank you for writing and sharing this tutorial?
+
+You can star this tutorial. Starring is free for you, but it tells me
+and other people that you like this tutorial.
