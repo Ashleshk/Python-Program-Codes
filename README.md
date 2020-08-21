@@ -100,4 +100,5 @@ asked to create a GitHub account if you don't already have one.
 If you have git and you know how to use it, you can also clone the
 repository instead of downloading a zip and extracting it. An advantage
 with doing it this way is that you don't need to download the whole
-tutorial again to get the latest version of it
+tutorial again to get the latest version of it, all you need to do is to
+pull with git and run `make-html.py` again.
