@@ -96,3 +96,6 @@ asked to create a GitHub account if you don't already have one.
     which operating system you run.
 
 4. Run `make-html.py` and follow the instructions.
+
+If you have git and you know how to use it, you can also clone the
+repository instead of downloading a zip and extracting it.
