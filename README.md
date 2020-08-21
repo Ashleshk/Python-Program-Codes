@@ -91,3 +91,6 @@ asked to create a GitHub account if you don't already have one.
     the page, then click "Download ZIP".
 
     ![Download ZIP](https://github.com/Ashleshk/Python-Program-Codes/blob/master/images/download-me.png)
+3. Extract the ZIP and open it. Unfortunately I don't have any more
+    specific instructions because how exactly this is done depends on
+    which operating system you run.
