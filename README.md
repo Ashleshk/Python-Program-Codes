@@ -85,4 +85,5 @@ asked to create a GitHub account if you don't already have one.
 
 ### How can I read this tutorial without an Internet connection?
 
-
+1. Go [here](https://github.com//python-tutorial) if you aren't
+    here already.
