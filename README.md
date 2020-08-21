@@ -94,3 +94,5 @@ asked to create a GitHub account if you don't already have one.
 3. Extract the ZIP and open it. Unfortunately I don't have any more
     specific instructions because how exactly this is done depends on
     which operating system you run.
+
+4. Run `make-html.py` and follow the instructions.
