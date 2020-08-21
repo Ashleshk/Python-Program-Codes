@@ -79,19 +79,19 @@ than complex.
 You can star this tutorial. Starring is free for you, but it tells me
 and other people that you like this tutorial.
 
-Go [here](https://github.com//python-tutorial) if you aren't here
+Go [here](https://github.com/Ashleshk/Python-Program-Codes) if you aren't here
 already and click the "Star" button in the top right corner. You will be
 asked to create a GitHub account if you don't already have one.
 
 ### How can I read this tutorial without an Internet connection?
 
-1. Go [here](https://github.com//python-tutorial) if you aren't
+1. Go [here](https://github.com/Ashleshk/Python-Program-Codes) if you aren't
     here already.
 2. Click the big green "Clone or download" button in the top right of
     the page, then click "Download ZIP".
 
     ![Download ZIP](https://github.com/Ashleshk/Python-Program-Codes/blob/master/images/download-me.png)
-    
+
 3. Extract the ZIP and open it. Unfortunately I don't have any more
     specific instructions because how exactly this is done depends on
     which operating system you run.
