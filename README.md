@@ -90,4 +90,4 @@ asked to create a GitHub account if you don't already have one.
 2. Click the big green "Clone or download" button in the top right of
     the page, then click "Download ZIP".
 
-    ![Download ZIP](images/download-me.png)
+    ![Download ZIP](https://github.com/Ashleshk/Python-Program-Codes/blob/master/images/download-me.png)
