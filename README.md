@@ -89,3 +89,5 @@ asked to create a GitHub account if you don't already have one.
     here already.
 2. Click the big green "Clone or download" button in the top right of
     the page, then click "Download ZIP".
+
+    ![Download ZIP](images/download-me.png)
