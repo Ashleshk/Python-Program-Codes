@@ -87,3 +87,5 @@ asked to create a GitHub account if you don't already have one.
 
 1. Go [here](https://github.com//python-tutorial) if you aren't
     here already.
+2. Click the big green "Clone or download" button in the top right of
+    the page, then click "Download ZIP".
