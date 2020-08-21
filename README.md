@@ -82,3 +82,7 @@ and other people that you like this tutorial.
 Go [here](https://github.com//python-tutorial) if you aren't here
 already and click the "Star" button in the top right corner. You will be
 asked to create a GitHub account if you don't already have one.
+
+### How can I read this tutorial without an Internet connection?
+
+
