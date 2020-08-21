@@ -114,4 +114,4 @@ You may use this tutorial freely at your own risk. See
 [LICENSE](https://github.com/Ashleshk/Python-Program-Codes/blob/master/LICENSE).
 
 
-[List of contents](https://github.com/Ashleshk/Python-Program-Codes)
+[List of contents](./README.md#list-of-contents)
